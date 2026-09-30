@@ -15,10 +15,6 @@ Mac: Run `brew install ffmpeg` in Terminal.
 - Basic audio support
 - The webcam is assumed to be 16:9 (or square if that's what Screen Studio is set to), with Fit Cover so it never stretches. 
 
-## Credits
-
-Made possible by the Canva Creative Team and Claude.
-
 ## License
 
 MIT. See [LICENSE](LICENSE). Based on [screen-studio-to-after-effects](https://github.com/aedev-tools/screen-studio-to-after-effects) by Michael Nahmias.
