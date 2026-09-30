@@ -5,9 +5,9 @@ Rebuilds a [Screen Studio](https://www.screen.studio/) project as a Cavalry comp
 ## Install
 Requires **ffmpeg** installed in your command line.
 
-Mac: `brew install ffmpeg` in terminal.
+Mac: Run `brew install ffmpeg` in Terminal.
 
-1. Copy `ScreenStudioToCavalry.js` into your Cavalry Scripts folder (**Scripts → Show Scripts Folder**).
+1. Copy `ScreenStudioT oCavalry.js` into your Cavalry Scripts folder (**Scripts → Show Scripts Folder**).
 2. Run it from the **Scripts** menu. A file dialog opens straight away: pick a project and the comp is built.
 
 ## Known limits
